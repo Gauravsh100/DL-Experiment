@@ -1,4 +1,6 @@
-NAME: GAURAV SHARMA       ROLL-NO: 2K22/CO/185 
+DEEP LEARNING E5 GROUP-G2
+NAME: GAURAV SHARMA                 
+ROLL-NO: 2K22/CO/185 
 
 Experiment 1: MNIST using NumPy In this experiment, we implement a neural network to classify the MNIST dataset using only NumPy, focusing on the fundamentals of training a neural network without relying on high-level libraries like TensorFlow or PyTorch.
 
